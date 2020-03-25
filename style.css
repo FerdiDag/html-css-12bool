@@ -1,0 +1,61 @@
+
+
+
+.logo {
+    height: 500px;
+
+    background-image: url("img/default-header.jpg");
+    background-repeat: no-repeat;
+}
+
+
+
+body {
+    background-image: url("img/default-pattern.png");
+}
+
+
+
+
+
+
+
+.aside {
+    padding: 20px;
+    border-radius: 5px;
+border: 1px solid black;
+}
+
+.center {
+    padding: 20px;
+border: 1px solid black;
+border-radius: 5px;
+}
+
+
+
+.right {
+    padding: 20px;
+border: 1px solid black;
+border-radius: 5px;
+}
+
+
+
+.testleft {
+    padding: 20px;
+    border: 1px solid brown;
+    border-radius: 5px;
+}
+
+
+.contact {
+    padding: 20px;
+
+border-radius: 5px;
+}
+
+
+.contact {
+    text-align: center;
+}
